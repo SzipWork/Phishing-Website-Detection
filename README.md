@@ -10,6 +10,7 @@ The project utilizes several datasets that include labeled examples of phishing 
 - `phish_file.csv`
 - `legit_file.csv`
 - `Benign_url_file.csv`
+- `verified_online.csv`
 
 ## Feature Extraction
 
